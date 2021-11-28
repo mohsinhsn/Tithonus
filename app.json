@@ -8,8 +8,8 @@
         "video stream",
         "pyrogram"
     ],
-    "website": "https://t.me/levinachannel",
-    "repository": "https://github.com/levina-lab/video-stream",
+    "website": "https://t.me/EnglishChatting_Club",
+    "repository": "https://github.com/mohsinhsn/tithonus",
     "success_url": "https://t.me/dlwrml",
     "env": {
         "API_ID": {
@@ -47,12 +47,12 @@
         "GROUP_SUPPORT": {
             "description": "if you have group, then fill the group username here without @",
             "required": true,
-            "value": "VeezSupportGroup"
+            "value": "EnglishChatting_Club"
         },
         "UPDATES_CHANNEL": {
             "description": "if you have channel, then fill the channel username here without @",
             "required": true,
-            "value": "levinachannel"
+            "value": "popcorn_party"
         },
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
@@ -62,7 +62,7 @@
         "ALIVE_NAME": {
             "description": "fill with your telegram account nickname/name",
             "required": true,
-            "value": "Levina"
+            "value": "tithonus"
         }
     },
     "addons": [],
